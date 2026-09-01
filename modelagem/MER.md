@@ -24,4 +24,4 @@
 * **Recompensa:** id_recompensa (PK), nome_recompensa, icone_url, condicao_desbloqueio.
 
 4. Diagrama Entidade e Relacionamento (DER)
-![Diagrama DER do AcalmaTEA](./diagrama-acalmatea.png)
+![Diagrama DER do AcalmaTEA](./banco_de_dados_acalmatea.png)
