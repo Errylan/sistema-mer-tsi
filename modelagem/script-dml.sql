@@ -1,3 +1,4 @@
+USE AcalmaTEA;
 
 SELECT 
     u.nome_usuario AS 'Usuário',
